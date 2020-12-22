@@ -14,7 +14,7 @@ When a survey queue has more than 6 completed surveys the queue is collapsed and
 The survey queue is automatically expanded and the user does not require an extra mouse click.
 
 ### Future Functioanlity
-At present the user will still require to click "view all" on the Surevy Queue which is displayed via the window overlay. It would be useful to expand that queue in the future.
+At present the user will still require to click "view all" on the Survey Queue which is displayed via the window overlay. It would be useful to expand that queue in the future.
 
 ## Version History
 v1.0.0 -- initial version
