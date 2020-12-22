@@ -1,0 +1,16 @@
+{
+    "name": "Queue Expander",
+    "namespace": "QueueExpanderNamespace\\QueueExpanderClass", 
+    "description": "This module expands REDCap's survey queue automatically, removing the need for a user to repeatedly click the View All link.",
+    "authors": [
+        {
+             "name": "Eric Smith",
+             "email": "erics@frontier-science.co.uk",
+             "institution": "Frontier Science Scotland (Ltd)"
+         }
+     ],
+     "permissions": [
+        "redcap_every_page_top",
+		"redcap_survey_complete"
+      ]
+ }
