@@ -13,7 +13,7 @@ When a survey queue has more than 6 completed surveys the queue is collapsed and
 ### After Queue Expander
 The survey queue is automatically expanded and the user does not require an extra mouse click.
 
-### Future Functioanlity
+### Future Functionality
 At present the user will still require to click "view all" on the survey queue which is displayed via the window overlay. It would be useful to expand that queue in the future.
 
 ## Version History
