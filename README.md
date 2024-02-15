@@ -15,7 +15,7 @@ The survey queue is automatically expanded and the user does not require an extr
 
 ### Future Functionality
 At present the user will still require to click "view all" on the survey queue which is displayed via the window overlay. It would be useful to expand that queue in the future.
-** The expansion on the window overlay works on REDCap 12.0.7 to 13.10.2 (not tested above this) **
+** The expansion on the window overlay works on REDCap 12.0.7 to 14.1.5 (not tested above this) **
 
 ## Version History
 v1.0.0 -- initial version
